@@ -44,18 +44,8 @@ header nav ul li a:hover {
     text-decoration: none;
     font-size: 0.5cm;
 }
-.row{
-    display:grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 10px;
-}
 
-.col{
-    padding: 20px;
-    background-color: #3296de;
-}
 .btn-login {
-    max-width: 50px;
     background: #f4f4f4;
     color: #14a2e4;
     text-decoration: none;
@@ -268,17 +258,6 @@ footer .bottom-footer {
         transform: rotate(-360deg);
     }
 }
-
-.container{
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
-    /* background-color: #f2f2f2; */
-    /* border: 1px solid #ccc; */
-    border-radius: 5px;
-}
-
-
 
 /* FOR MOBILE */
 @media screen and (max-width: 576px) {

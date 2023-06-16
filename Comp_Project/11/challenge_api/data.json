@@ -1,0 +1,16 @@
+{
+    "name":"Detroit",
+    "id":7890778,
+    "timezone":5165,
+    "base":"stations",
+    "sys":{"type":1,"id":9424,"country":"USA","sunrise":1676070536,"sunset":1676114503},
+    "coord":{"lon":42.331429, "lat":-83.045753},
+    "weather":{"weather":"rain","weather_specified":"Heavy rain"},
+    "dt":1676124801,
+    "main":{"temp":300.2,"feels_like":292.52,"temp_min":290.4,"temp_max":300.2,"pressure":1009,"humidity":89},
+    "visibility":500,
+    "wind":{"speed":2.06,"deg":360},
+    "rain":{"3.5h":0.40},
+    "clouds":{"all":50},
+    "cod":200
+}
