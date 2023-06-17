@@ -226,7 +226,7 @@ footer {
 }
 
 footer .top-footer {
-    background-color: #3371af;
+    background-color: #c91010;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
@@ -238,6 +238,7 @@ footer .top-footer {
     color: whitesmoke;
     justify-content: center;
 }
+
 
 footer .bottom-footer {
     height: auto;
