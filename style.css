@@ -14,7 +14,7 @@ body {
 
 header nav {
     display: flex;
-    background: #1981d6;
+    background: #cc0808;
     color: #e6e3e3;
     justify-content: space-around;
     /* padding: 20px; */
@@ -52,12 +52,12 @@ header nav ul li a:hover {
 
 .col{
     padding: 20px;
-    background-color: #3296de;
+    background-color: #a10b0b;
 }
 .btn-login {
     max-width: 50px;
     background: #f4f4f4;
-    color: #14a2e4;
+    color: #cc0c0c;
     text-decoration: none;
     border: 2px solid transparent;
     font-weight: bold;
@@ -102,7 +102,7 @@ section.hero .hero-content h1 {
 }
 
 section.hero .hero-content h3 {
-    color: #3296de;
+    color: #be0c0c;
     margin: 20px 0px 20px;
     font-size: 1.25em;
 }
@@ -189,6 +189,34 @@ section.about .about-content .about-text {
     text-align: center;
     color: #e2dddd;
 }
+.list-title {
+    padding-bottom: 5px;
+}
+
+.list-title h1 {
+    color: #FFFFFF;
+    font-size: 26px;
+}
+
+.list {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+}
+
+.list img {
+    width: 72px;
+    height: 72px;
+    margin: 4px;
+    border: 2px dotted #59C7C2;
+}
+
+.list li {
+    display: flex;
+    flex-direction: row;
+    margin: 8px;
+}
+
 
 /* FOOTER */
 
